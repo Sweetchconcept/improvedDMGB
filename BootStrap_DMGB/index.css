@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.hero-section {
+    background-image: url('https://example.com/your-background-image.jpg'); /* Add your background image URL here */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+.destinations-section {
+    padding: 50px 0;
+}
+.destination-card {
+    margin-bottom: 30px;
+}
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
